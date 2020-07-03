@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MagicConch</string>
+    <string name="title">Ask the Magic Conch!</string>
+    <string name="boton_preguntar">Ask</string>
+    <string name="desc_imagencaracola">Conch Image</string>
+</resources>

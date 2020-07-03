@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">CaracolaMagica</string>
     <string name="title">¡Preguntale a la Caracola Magica!</string>
+    <string name="boton_preguntar">Preguntar</string>
+    <string name="desc_imagencaracola">Imagen Caracola</string>
 </resources>

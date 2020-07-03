@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 28
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "millerdako.producciones.caracolamagica"
-        minSdkVersion 14
-        targetSdkVersion 29
+        applicationId 'com.millkaproducciones.caracolamagica'
+        minSdkVersion 19
+        targetSdkVersion 28
         versionCode 1
-        versionName "1.0"
+        versionName '1.0.0'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
